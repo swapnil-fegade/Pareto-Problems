@@ -1,5 +1,4 @@
 
-````markdown
 # 🚀 LeetCode Practice – Problem List: [niv5svl2](https://leetcode.com/problem-list/niv5svl2/)
 
 This repository contains my solutions to problems from a curated [LeetCode list (niv5svl2)](https://leetcode.com/problem-list/niv5svl2/). The goal is to develop strong problem-solving skills and deepen my understanding of core Data Structures and Algorithms through consistent practice.
@@ -63,4 +62,3 @@ Computer Science Undergrad | Problem Solver | Dev Enthusiast
 
 *This repo is part of my journey to crack the coding interviews and become a better developer, one problem at a time.* 🚀
 
-```
