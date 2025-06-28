@@ -1,20 +1,19 @@
 
-# 🚀 LeetCode Practice – Problem List: [niv5svl2](https://leetcode.com/problem-list/niv5svl2/)
+# 🚀 LeetCode Practice – Problem List: [Pareto-Problems-List](https://leetcode.com/problem-list/niv5svl2/)
 
-This repository contains my solutions to problems from a curated [LeetCode list (niv5svl2)](https://leetcode.com/problem-list/niv5svl2/). The goal is to develop strong problem-solving skills and deepen my understanding of core Data Structures and Algorithms through consistent practice.
+This repository contains my solutions to problems from a curated [LeetCode list (Pareto-Problems)](https://leetcode.com/problem-list/niv5svl2/). The goal is to develop strong problem-solving skills and deepen my understanding of core Data Structures and Algorithms through consistent practice.
 
 ## 📌 About the Problem List
 
-The [niv5svl2](https://leetcode.com/problem-list/niv5svl2/) list is a hand-picked set of LeetCode problems focused on:
+The [Pareto-Problem](https://leetcode.com/problem-list/niv5svl2/) list is a hand-picked set of LeetCode problems focused on:
 
-- Arrays & Strings
-- Hashing
+- Arrays & Hashing
 - Sliding Window & Two Pointers
 - Stack & Queues
 - Binary Search
-- Recursion & Backtracking
-- Trees & Graphs
-- Dynamic Programming
+- Heap
+- Trees
+- Graphs
 
 These problems are ideal for strengthening fundamentals and preparing for technical interviews at top tech companies.
 
