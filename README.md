@@ -34,8 +34,8 @@ I’m actively working through this list. Progress is tracked via commits, so fe
 
 | Status         | Count      |
 | -------------- | ---------- |
-| ✅ Completed    | 09 / 49 |
-| 💤 Pending     | 40         |
+| ✅ Completed    | 12 / 49 |
+| 💤 Pending     | 37         |
 
 ## 🔗 Useful Links
 
